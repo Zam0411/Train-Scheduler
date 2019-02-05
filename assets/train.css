@@ -1,0 +1,66 @@
+body {
+    background: url("http://s1.picswalls.com/wallpapers/2014/08/16/train-backgrounds_072800178_211.jpg");
+    background-size: cover;
+}
+
+.jumbotron {
+    background-color: lightskyblue;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+}
+
+.Panel {
+    background-color: lightskyblue;
+    border: solid;
+    border-width: 5px;
+    border-color: black;  
+}
+
+.panel-title {
+    text-align: center;
+}
+
+.New {
+    background-color: lightskyblue;
+    border: solid;
+    border-width: 5px;
+    border-color: black;
+    margin-top: 1%;
+}
+
+.NT {
+    border-bottom: solid;
+    border-bottom-color: black;
+    text-align: center;
+}
+
+#add-train {
+    background-color: cyan;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#name-input {
+    border: solid;
+    border-color: black;
+}
+
+#destination-input {
+    border: solid;
+    border-color: black;
+}
+
+#time-input {
+    border: solid;
+    border-color: black;
+}
+
+#frequency-input {
+    border: solid;
+    border-color: black;
+}
+
+
+
